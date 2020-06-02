@@ -11,4 +11,3 @@ Feature: Photo feature
     And take picture
     And I press "Default vehicle"
     And take picture
-    Then I see "Welcome to coolest app ever"

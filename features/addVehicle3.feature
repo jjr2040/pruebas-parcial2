@@ -1,7 +1,8 @@
-Feature: Add vehicle
+Feature: Add vehicle and set it as default
 
-  Scenario: As a valid user I can add a vehicle
+  Scenario: As a valid user I can add a vehicle and set it as default
     When I press "Vehicles"
+    And I wait for 2 seconds
     And I press the menu key
     And I press "Add new vehicle"
     And I wait for progress
@@ -22,6 +23,12 @@ Feature: Add vehicle
     And I press "Add new vehicle"
     Then I should see text containing "ÀVehicle 2"
     Then I should see text containing "ñThis is a drescription"
+
+    And I long press "ÀVehicle 2"
+    And I press "Set vehicle as default"
+    And I wait for 2 seconds
+    And I press "Default vehicle"
+    Then I should see "make_default" unchecked
 
 
 

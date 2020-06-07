@@ -1,6 +1,6 @@
 # Resultado
 
-| Mutante # | Link al reporte (BDT) |
+| Mutante # | Link al resultado de la prueba |
 | ----- | ----- |
 | 1004 | [Reporte](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jjr2040/pruebas-parcial2/master/results/mutants/com.evancharlton.mileage-mutant1004/com.evancharlton.mileage_3110-aligned-debugSigned.apk/error.html) |
 | 1006 | [Reporte](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jjr2040/pruebas-parcial2/master/results/mutants/com.evancharlton.mileage-mutant1006/com.evancharlton.mileage_3110-aligned-debugSigned.apk/error.html) |

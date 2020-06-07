@@ -1055,3 +1055,4 @@
 | 994 | [Reporte](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jjr2040/pruebas-parcial2/master/results/mutants/com.evancharlton.mileage-mutant994/com.evancharlton.mileage_3110-aligned-debugSigned.apk/error.html) |
 | 996 | [Reporte](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jjr2040/pruebas-parcial2/master/results/mutants/com.evancharlton.mileage-mutant996/com.evancharlton.mileage_3110-aligned-debugSigned.apk/error.html) |
 | 998 | [Reporte](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jjr2040/pruebas-parcial2/master/results/mutants/com.evancharlton.mileage-mutant998/com.evancharlton.mileage_3110-aligned-debugSigned.apk/error.html) |
+|2000|[Reporte (VRT)](https://github.com/jjr2040/pruebas-parcial2/tree/master/reportes/vrt/C1)
